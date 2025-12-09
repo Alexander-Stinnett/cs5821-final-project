@@ -1,0 +1,1 @@
+Through CS5821, I gained a solid understanding of the core principles and modern applications of large language models. The hands-on projects helped me grasp the key techniques behind model training, fine-tuning, and evaluation. Overall, CS5821 gave me a clearer and more comprehensive view of LLM development and real-world deployment.
